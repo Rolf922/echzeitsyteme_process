@@ -1,0 +1,9 @@
+# Compiled programs
+/auf1
+/auf2
+*.o
+*.out
+
+# Core dumps
+core
+core.*
